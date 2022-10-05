@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Michael!
 
 
-#### I am a Paramedic, career-changer, bootcamp graduate, and a pet lover 🐈‍⬛
+#### I am a Paramedic, career-changer, bootcamp graduate, and a 🐈 pet lover.
 
 🧑🏻‍🎓&nbsp; I'm a recent bootcamp graduate. <br/>
 🌱&nbsp; I’m currently learning TypeScript and working on my portfolio. <br/>
-🏐&nbsp; When I'm not coding, you can find me playing volleyball, and eating new food. <br/>
-🙋‍♂️&nbsp; He/Him
+🏐&nbsp; When I'm not coding, you can find me playing volleyball, and exploring new foods. <br/>
+🙋‍♂️&nbsp; He/Him.
 
 #### Languages & Tools I Use:
 <p>
